@@ -484,3 +484,9 @@ Run the code and you should see the letters *Aa* show up on the screen.
 ##### Figure 5 Rendering Text on a mobile device
 ![font in iphone](https://dl.dropboxusercontent.com/u/107789379/CGDemy/blogimages/fontIphone.png)
 
+
+###Credits
+[Harold Serrano](http://www.haroldserrano.com) Author of this repository and post
+
+###Questions
+If you have any questions about this repository, feel free to contact me at http://www.haroldserrano.com/contact/
